@@ -1,0 +1,2 @@
+C:\Dev\FleetOfCars\FleetOfCars\obj\Debug\FleetOfCars.csprojAssemblyReference.cache
+C:\Dev\FleetOfCars\FleetOfCars\obj\Debug\FleetOfCars.csproj.CoreCompileInputs.cache
